@@ -4,6 +4,6 @@ Ever came accross a crap-cake and asked yourself,
 
 Well, here lies the solution. This python script recognizes the culprit of that weirdly scented poop, and tells you the animal who excreted the poop. 
 
-Next time you are on an adventure, you won't need no guide to tell you that the what you stepped on has once passed through an elephant.
+Next time you are on an adventure, you won't need no guide to tell you that what you stepped on has once passed through an elephant.
 
 Although right now it only classifies between cat and dog's feces. Different dataset will be added soon.
